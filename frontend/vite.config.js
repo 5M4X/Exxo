@@ -38,7 +38,6 @@ const productionSecurityHeaders = {
 }
 
 export default defineConfig({
-  base: process.env.GITHUB_ACTIONS ? '/Exxo/' : '/',
   plugins: [react(), externalReactRefreshPreamble],
   build: {
     sourcemap: false,
