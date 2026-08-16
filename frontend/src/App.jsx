@@ -36,7 +36,7 @@ const translations = {
       { number: '02', title: 'Construire', text: 'Un premier prototype rapidement testable, enrichi avec vos retours et vos données.' },
       { number: '03', title: 'Faire grandir', text: 'Une solution robuste, documentée et accompagnée dans la durée lorsque vous évoluez.' },
     ],
-    aria: { home: 'Retour à l’accueil EXXO Techs', nav: 'Navigation principale', language: 'Choisir la langue', openMenu: 'Ouvrir le menu', closeMenu: 'Fermer le menu', heroVisual: 'Illustration de solutions Data et Intelligence Artificielle', ticker: 'Domaines d’expertise', commitments: 'Nos engagements', close: 'Fermer' },
+    aria: { home: 'Retour à l’accueil EXXO Techs', nav: 'Navigation principale', language: 'Choisir la langue', openMenu: 'Ouvrir le menu', closeMenu: 'Fermer le menu', backToTop: 'Remonter en haut de la page', heroVisual: 'Illustration de solutions Data et Intelligence Artificielle', ticker: 'Domaines d’expertise', commitments: 'Nos engagements', close: 'Fermer' },
     side: { prompt: 'Un projet en tête ?', link: 'Parlons-en' },
     hero: { eyebrow: 'Data · IA · Produit digital', title: ['Donnez de l’élan', 'à vos idées.'], intro: 'EXXO Techs transforme vos données et vos ambitions en solutions numériques utiles, intelligentes et prêtes à grandir avec vous.', primary: 'Démarrer un projet', secondary: 'Découvrir nos expertises', reply: 'pour une première réponse', bespoke: 'de solutions sur mesure', explore: 'Explorer', signal: 'De la donnée à la décision.', metric: 'de temps gagné', usefulAi: 'IA utile', automate: 'Automatiser sans complexifier', humanFirst: 'Humain d’abord', tailored: 'La tech à votre mesure' },
     expertise: { kicker: 'Nos expertises', heading: ['Vos enjeux,', 'notre terrain de jeu.'], intro: 'Nous réunissons la Data, l’IA et le développement produit pour créer des solutions qui font vraiment avancer votre activité.', label: 'EXPERTISE' },
@@ -65,7 +65,7 @@ const translations = {
       { number: '02', title: 'Build', text: 'A first prototype that can be tested quickly, enriched with your feedback and data.' },
       { number: '03', title: 'Grow', text: 'A robust, documented solution supported over time as your organisation evolves.' },
     ],
-    aria: { home: 'Back to EXXO Techs home', nav: 'Main navigation', language: 'Choose language', openMenu: 'Open menu', closeMenu: 'Close menu', heroVisual: 'Illustration of Data and Artificial Intelligence solutions', ticker: 'Areas of expertise', commitments: 'Our commitments', close: 'Close' },
+    aria: { home: 'Back to EXXO Techs home', nav: 'Main navigation', language: 'Choose language', openMenu: 'Open menu', closeMenu: 'Close menu', backToTop: 'Back to the top of the page', heroVisual: 'Illustration of Data and Artificial Intelligence solutions', ticker: 'Areas of expertise', commitments: 'Our commitments', close: 'Close' },
     side: { prompt: 'Have a project in mind?', link: 'Let’s talk' },
     hero: { eyebrow: 'Data · AI · Digital product', title: ['Give momentum', 'to your ideas.'], intro: 'EXXO Techs turns your data and ambitions into useful, intelligent digital solutions that are ready to grow with you.', primary: 'Start a project', secondary: 'Explore our expertise', reply: 'for an initial response', bespoke: 'tailored solutions', explore: 'Explore', signal: 'From data to decisions.', metric: 'time saved', usefulAi: 'Useful AI', automate: 'Automate without adding complexity', humanFirst: 'People first', tailored: 'Technology on your terms' },
     expertise: { kicker: 'Our expertise', heading: ['Your challenges,', 'our playground.'], intro: 'We bring together Data, AI and product development to create solutions that truly move your business forward.', label: 'EXPERTISE' },
@@ -94,7 +94,7 @@ const translations = {
       { number: '02', title: 'Bauen', text: 'En éischte Prototyp, dee séier getest a mat Ärem Feedback an Ären Daten verbessert gëtt.' },
       { number: '03', title: 'Weiderentwéckelen', text: 'Eng robust, dokumentéiert Léisung, déi laangfristeg mat Iech matwiisst.' },
     ],
-    aria: { home: 'Zréck op d’Startsäit vun EXXO Techs', nav: 'Haaptnavigatioun', language: 'Sprooch auswielen', openMenu: 'Menü opmaachen', closeMenu: 'Menü zoumaachen', heroVisual: 'Illustratioun vun Daten- a KI-Léisungen', ticker: 'Expertiseberäicher', commitments: 'Eis Engagementer', close: 'Zoumaachen' },
+    aria: { home: 'Zréck op d’Startsäit vun EXXO Techs', nav: 'Haaptnavigatioun', language: 'Sprooch auswielen', openMenu: 'Menü opmaachen', closeMenu: 'Menü zoumaachen', backToTop: 'Zréck uewen op d’Säit', heroVisual: 'Illustratioun vun Daten- a KI-Léisungen', ticker: 'Expertiseberäicher', commitments: 'Eis Engagementer', close: 'Zoumaachen' },
     side: { prompt: 'Hutt Dir e Projet am Kapp?', link: 'Schwätze mir doriwwer' },
     hero: { eyebrow: 'Daten · KI · Digitalt Produkt', title: ['Gitt Ären Iddien', 'neie Schwong.'], intro: 'EXXO Techs verwandelt Är Daten an Ambitiounen an nëtzlech, intelligent digital Léisungen, déi mat Iech wuessen.', primary: 'E Projet starten', secondary: 'Eis Expertise entdecken', reply: 'fir eng éischt Äntwert', bespoke: 'Moossléisungen', explore: 'Entdecken', signal: 'Vun Daten zu Entscheedungen.', metric: 'Zäit gespuert', usefulAi: 'Nëtzlech KI', automate: 'Automatiséieren ouni Komplexitéit', humanFirst: 'De Mënsch als éischt', tailored: 'Technologie op Är Mooss' },
     expertise: { kicker: 'Eis Expertise', heading: ['Är Erausfuerderungen,', 'eist Spillfeld.'], intro: 'Mir verbannen Daten, KI a Produktentwécklung, fir Léisungen ze schafen, déi Äert Geschäft wierklech weiderbréngen.', label: 'EXPERTISE' },
@@ -123,7 +123,7 @@ const translations = {
       { number: '02', title: 'Construir', text: 'Un primer prototipo que puede probarse rápidamente y enriquecerse con sus comentarios y datos.' },
       { number: '03', title: 'Crecer', text: 'Una solución sólida, documentada y acompañada a largo plazo a medida que evoluciona.' },
     ],
-    aria: { home: 'Volver al inicio de EXXO Techs', nav: 'Navegación principal', language: 'Elegir idioma', openMenu: 'Abrir menú', closeMenu: 'Cerrar menú', heroVisual: 'Ilustración de soluciones de Datos e Inteligencia Artificial', ticker: 'Áreas de especialización', commitments: 'Nuestros compromisos', close: 'Cerrar' },
+    aria: { home: 'Volver al inicio de EXXO Techs', nav: 'Navegación principal', language: 'Elegir idioma', openMenu: 'Abrir menú', closeMenu: 'Cerrar menú', backToTop: 'Volver al inicio de la página', heroVisual: 'Ilustración de soluciones de Datos e Inteligencia Artificial', ticker: 'Áreas de especialización', commitments: 'Nuestros compromisos', close: 'Cerrar' },
     side: { prompt: '¿Tiene un proyecto en mente?', link: 'Hablemos' },
     hero: { eyebrow: 'Datos · IA · Producto digital', title: ['Dé impulso', 'a sus ideas.'], intro: 'EXXO Techs transforma sus datos y ambiciones en soluciones digitales útiles, inteligentes y preparadas para crecer con usted.', primary: 'Iniciar un proyecto', secondary: 'Descubrir nuestras especialidades', reply: 'para una primera respuesta', bespoke: 'soluciones a medida', explore: 'Explorar', signal: 'De los datos a las decisiones.', metric: 'de tiempo ahorrado', usefulAi: 'IA útil', automate: 'Automatizar sin añadir complejidad', humanFirst: 'Las personas primero', tailored: 'Tecnología a su medida' },
     expertise: { kicker: 'Nuestras especialidades', heading: ['Sus retos,', 'nuestro terreno de juego.'], intro: 'Unimos Datos, IA y desarrollo de producto para crear soluciones que hacen avanzar realmente su actividad.', label: 'ESPECIALIDAD' },
@@ -152,7 +152,7 @@ const translations = {
       { number: '02', title: 'Κατασκευή', text: 'Ένα πρώτο πρωτότυπο που δοκιμάζεται γρήγορα και εμπλουτίζεται με τα σχόλια και τα δεδομένα σας.' },
       { number: '03', title: 'Ανάπτυξη', text: 'Μια στιβαρή, τεκμηριωμένη λύση με μακροχρόνια υποστήριξη καθώς εξελίσσεστε.' },
     ],
-    aria: { home: 'Επιστροφή στην αρχική σελίδα της EXXO Techs', nav: 'Κύρια πλοήγηση', language: 'Επιλογή γλώσσας', openMenu: 'Άνοιγμα μενού', closeMenu: 'Κλείσιμο μενού', heroVisual: 'Απεικόνιση λύσεων Δεδομένων και Τεχνητής Νοημοσύνης', ticker: 'Τομείς εξειδίκευσης', commitments: 'Οι δεσμεύσεις μας', close: 'Κλείσιμο' },
+    aria: { home: 'Επιστροφή στην αρχική σελίδα της EXXO Techs', nav: 'Κύρια πλοήγηση', language: 'Επιλογή γλώσσας', openMenu: 'Άνοιγμα μενού', closeMenu: 'Κλείσιμο μενού', backToTop: 'Επιστροφή στην κορυφή της σελίδας', heroVisual: 'Απεικόνιση λύσεων Δεδομένων και Τεχνητής Νοημοσύνης', ticker: 'Τομείς εξειδίκευσης', commitments: 'Οι δεσμεύσεις μας', close: 'Κλείσιμο' },
     side: { prompt: 'Έχετε κάποιο έργο στο μυαλό σας;', link: 'Ας μιλήσουμε' },
     hero: { eyebrow: 'Δεδομένα · ΤΝ · Ψηφιακό προϊόν', title: ['Δώστε ώθηση', 'στις ιδέες σας.'], intro: 'Η EXXO Techs μετατρέπει τα δεδομένα και τις φιλοδοξίες σας σε χρήσιμες, έξυπνες ψηφιακές λύσεις που αναπτύσσονται μαζί σας.', primary: 'Ξεκινήστε ένα έργο', secondary: 'Ανακαλύψτε την εξειδίκευσή μας', reply: 'για μια πρώτη απάντηση', bespoke: 'εξατομικευμένες λύσεις', explore: 'Εξερεύνηση', signal: 'Από τα δεδομένα στις αποφάσεις.', metric: 'εξοικονόμηση χρόνου', usefulAi: 'Χρήσιμη ΤΝ', automate: 'Αυτοματισμός χωρίς πολυπλοκότητα', humanFirst: 'Πρώτα ο άνθρωπος', tailored: 'Τεχνολογία στα μέτρα σας' },
     expertise: { kicker: 'Η εξειδίκευσή μας', heading: ['Οι προκλήσεις σας,', 'το πεδίο μας.'], intro: 'Συνδυάζουμε Δεδομένα, ΤΝ και ανάπτυξη προϊόντων για να δημιουργούμε λύσεις που προωθούν ουσιαστικά τη δραστηριότητά σας.', label: 'ΕΞΕΙΔΙΚΕΥΣΗ' },
@@ -361,6 +361,10 @@ export default function App() {
       <a className={`brand mobile-brand ${scrollProgress > 0.35 && !menuOpen ? 'is-hidden' : ''} ${menuOpen ? 'is-in-menu' : ''}`} href="#accueil" aria-label={t.aria.home} onClick={() => setMenuOpen(false)}>{brand}</a>
 
       <button className={`menu-trigger ${menuOpen ? 'is-active' : ''}`} type="button" aria-label={menuOpen ? t.aria.closeMenu : t.aria.openMenu} aria-controls="site-navigation" aria-expanded={menuOpen} onClick={() => setMenuOpen((current) => !current)}><span /><span /></button>
+
+      <button className={`mobile-back-to-top ${scrollProgress > 4 && !menuOpen ? 'is-visible' : ''}`} type="button" aria-label={t.aria.backToTop} onClick={() => window.scrollTo({ top: 0, behavior: window.matchMedia('(prefers-reduced-motion: reduce)').matches ? 'auto' : 'smooth' })}>
+        <span aria-hidden="true">↑</span>
+      </button>
 
       <aside className={`side-panel ${menuOpen ? 'is-open' : ''}`} id="site-navigation">
         <a className="brand" href="#accueil" onClick={() => setMenuOpen(false)}>{brand}</a>
